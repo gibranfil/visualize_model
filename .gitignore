@@ -1,0 +1,5 @@
+BraTS20_Training_158/
+__pycache__/
+dump/
+*.hdf5
+
